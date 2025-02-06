@@ -4,7 +4,7 @@ import { HomeComponent } from "./pages/home/home.component";
 
 @Component({
   selector: 'app-root',
-  standalone: true,  // Esto indica que este componente es standalone
+  standalone: true, 
   imports: [RouterOutlet, HomeComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
