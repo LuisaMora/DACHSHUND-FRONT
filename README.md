@@ -19,4 +19,4 @@ Aquí podrás descubrir los diferentes tipos de esta adorable raza, así como co
 📢 **¡Contribuciones y mejoras son bienvenidas!**  
 Ayúdanos a mejorar y compartir información valiosa para todos los amantes de los Dachshund. 💖🐶  
 
-![image](https://github.com/LuisaMora/DACHSHUND-FRONT/blob/c3b516dadff0d319ead2f9c129996cf7b81e31c4/Dachshund1.JPG)
+![image]([https://github.com/LuisaMora/DACHSHUND-FRONT/blob/c3b516dadff0d319ead2f9c129996cf7b81e31c4/Dachshund1.JPG](https://github.com/LuisaMora/DACHSHUND-FRONT/blob/4a19ad2e0657ab0cf4b9ee95c05dda98a0b022c3/CapturaDachshund.JPG))
